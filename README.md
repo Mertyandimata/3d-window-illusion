@@ -1,4 +1,4 @@
-# 🎯 Parallax 3D Head Tracking
+# 🎯 3D Window Illusion
 
 Real-time 3D parallax illusion using webcam face tracking. Turn your 2D screen into a window to a 3D world.
 
